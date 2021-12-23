@@ -23,4 +23,12 @@ With experience in management and configuration of web applications using techno
 * PHP (In progress)
 * WordPress Developer (In progress)
 * Git/GitHub
-
+***
+## Code Example
+```
+function sum(a, b){
+  let result = a + b;
+  console.log(result);
+}
+sum(1, 5);
+```
