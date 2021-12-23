@@ -11,5 +11,5 @@ With experience in management and configuration of web applications using techno
 * CSS (Bootstrap, Flex, Grid)
 * JavaScript (In progress)
 * PHP (In progress)
-* 
+* WordPress Developer (In progress)
 
