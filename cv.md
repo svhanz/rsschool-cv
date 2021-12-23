@@ -4,7 +4,7 @@
 ![foto](foto.jpg)
 # Sergei Shlegel 
 ***Front End Developer*** 
-<!--CONTACTS-->
+
 ## Contacts
 * Location: Russian Federation
 * City: Nizhny Novgorod
@@ -12,12 +12,8 @@
 * Email: svshlegel66@gmail.com
 * GitHub: https://github.com/svhanz
   
-***
-<!--DESCRIPTION--> 
 ## About me 
 I have experience in management and configuration of web applications using technologies like HTML, CSS, PHP (CMS like WordPress to improve the functionality for the user experience side) and JavaScript.
-
-***
 
 ## Skills
 * HTML
@@ -27,8 +23,6 @@ I have experience in management and configuration of web applications using tech
 * WordPress Developer (In progress)
 * Git/GitHub
   
-***
-
 ## Code Example
 ```
 function sum(a, b){
@@ -37,7 +31,6 @@ function sum(a, b){
 }
 sum(1, 5);
 ```
-***
 
 ## Education
 * Aviation Flight School
@@ -46,12 +39,8 @@ sum(1, 5);
 * Udemy
 * Glo-Academy
   
-***
-
 ## My Progect
 * [ycdl.org](https://ycdl.org)
   
-***
-
 ## English
 A1 (In progress)
