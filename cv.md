@@ -2,7 +2,8 @@
 [CV is on Gh-pages](https://svhanz.github.io/rsschool-cv/cv)
 
 ![foto](foto.jpg)
-# Sergey Shlegel CV 
+# Sergei Shlegel 
+***Front End Developer*** 
 <!--CONTACTS-->
 ## Contacts
 * Location: Russian Federation
@@ -12,9 +13,8 @@
 * GitHub: https://github.com/svhanz
 ***
 <!--DESCRIPTION--> 
-## About me
-***Front End Developer***  
-With experience in management and configuration of web applications using technologies like HTML, CSS, PHP and JavaScript (with different frameworks/libraries/preprocessors), CMS (like WordPress),  to improve the performance and functionality for the user experience side.  
+## About me 
+I have experience in management and configuration of web applications using technologies like HTML, CSS, PHP (CMS like WordPress to improve the functionality for the user experience side) and JavaScript.
 ***
 ## Skills
 * HTML
@@ -32,3 +32,16 @@ function sum(a, b){
 }
 sum(1, 5);
 ```
+***
+## Education
+* Aviation Flight School
+* Volgo-Vyatka Academy of Public Administration
+* GeekBrains
+* Udemy
+* Glo-Academy
+***
+## My Progect
+* [ycdl.org](https://ycdl.org)
+***
+## English
+A1 (In progress)
