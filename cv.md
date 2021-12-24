@@ -10,9 +10,9 @@
 ## Contacts
 * Location: Russian Federation
 * City: Nizhny Novgorod
-* Tel: +79290437800
-* Email: svshlegel66@gmail.com
-* GitHub: https://github.com/svhanz
+* Tel: <a href="tel:+79290437800">+79290437800</a>
+* Email: <svshlegel66@gmail.com>
+* GitHub: <https://github.com/svhanz>
   
 ## About me 
 I have experience in management and configuration of web applications using technologies like HTML, CSS, PHP (CMS like WordPress to improve the functionality for the user experience side) and JavaScript.
@@ -22,8 +22,8 @@ I have experience in management and configuration of web applications using tech
 * CSS (Bootstrap, Flex, Grid)
 * JavaScript (In progress)
 * PHP (In progress)
-* WordPress Developer (In progress)
-* Git/GitHub
+* WordPress Developer
+* Git/GitHub (In progress)
   
 ## Code Example
 ```
