@@ -37,9 +37,10 @@ sum(1, 5);
 ## Education
 * Aviation Flight School
 * Volgo-Vyatka Academy of Public Administration
-* GeekBrains
-* Udemy
-* Glo-Academy
+* Courses:
+   * [GeekBrains_QA-Engineer (Complited)](https://gb.ru/geek_university/qa-engineer)
+   * [Udemy_JavaScript (In progress)](https://www.udemy.com/course/javascript-super)
+   * [Glo-Academy_WordPress Developer (Complited)](https://glo-academy.com/wp/)
   
 ## My Progect
 * [ycdl.org](https://ycdl.org)
