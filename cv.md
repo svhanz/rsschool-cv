@@ -1,6 +1,7 @@
 ![foto](foto.jpg)
 # Sergei Shlegel 
 ***Front End Developer***
+
 ***
 ## Contacts
 * Location: Russian Federation
