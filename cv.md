@@ -2,7 +2,6 @@
 # Sergei Shlegel 
 ***Front End Developer***
 
-***
 ## Contacts
 * Location: Russian Federation
 * City: Nizhny Novgorod
