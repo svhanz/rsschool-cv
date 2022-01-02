@@ -1,0 +1,78 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.header {
+  margin: 0 auto;
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #d3d3d3;
+}
+
+.nav__menu {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu__list {
+  display: flex;
+  gap: 30px;
+  list-style: none;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.main__container {
+  margin: 0 auto;
+  max-width: 1200px;
+  background-color: #d3d3d3;
+
+}
+
+.nav__menu a {
+  background-color: #a7a5a5;
+}
+
+a {
+  text-decoration: none;
+  color: #035c80;
+}
+
+a:hover {
+  background: #7c7264;
+  color: #ffe;
+}
+
+h1 {
+  margin: 0 auto;
+  color: #000000;
+  padding-bottom: 10px;
+}
+
+.logo {
+  padding-top: 10px;
+  padding-left: 10px;
+  width: 150px;
+  height: 150px;
+}
+
+#contacts,
+#skills,
+#codeExample,
+#myProject,
+#languages,
+#aboutMe,
+#education {
+  padding-left: 10px;
+}

@@ -1,4 +1,4 @@
-![foto](foto.jpg)
+![foto](images/foto.jpg)
 # Sergei Shlegel 
 ***Front End Developer***
 
