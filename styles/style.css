@@ -80,21 +80,17 @@ h1 {
   padding-left: 10px;
 }
 
+#languages {
+  padding-bottom: 30px;
+}
+
 .languages__list {
   margin: 0;
 }
 
-.footer {
+.footer__container {
   margin: 0 auto;
   max-width: 1200px;
-  display: flex;
-  justify-content: space-between;
-
-}
-
-.footer__container {
-  width: 100%;
-  margin-top: 0;
   display: flex;
   justify-content: space-between;
   background-color: #a1a1a1;
@@ -107,7 +103,6 @@ h1 {
   list-style: none;
   padding: 10px;
   margin: 0 auto;
-
 }
 
 .footer__logo-item {
